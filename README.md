@@ -31,10 +31,9 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 
 ## 🧰 Gadgets que todo Dev Deveria Ter
 
-- **Luzes RGB para Ambiente** — [Ver Oferta](https://seulinkafiliado.com/luzes)
-- **Suporte Articulado para Monitor** — [Ver Oferta](https://seulinkafiliado.com/suporte)
-- **Teclado Split para Ergonomia** — [Ver Oferta](https://seulinkafiliado.com/teclado-split)
-- **SSD Externo Ultra Rápido** — [Ver Oferta](https://seulinkafiliado.com/ssd)
+- **Luzes RGB para Ambiente** — [Ver Oferta](https://shop.ofertaco.top/x589f)
+- **Suporte Articulado Duplo para Monitores** — [Ver Oferta](https://shop.ofertaco.top/nxiew)
+- **SSD Externo Ultra Rápido** — [Ver Oferta](https://shop.ofertaco.top/94xqg)
 
 ---
 
