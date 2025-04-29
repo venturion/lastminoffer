@@ -12,8 +12,8 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 | Gadget | Imagem | Link para Oferta |
 |:-------|:------:|:----------------:|
 | **Teclado Magnético Redragon Kumara Pro Rgb Switch Brown. | ![Teclado Mecânico](https://http2.mlstatic.com/D_NQ_NP_698070-MLB50036377075_052022-O-teclado-magnetico-redragon-kumara-pro-rgb-switch-brown.webp) | [🔗 Conferir Oferta](https://shop.ofertaco.top/nvu24) |
-  | **Teclado Mecânico Gamer Redragon Dark Avenger, Rgb, Switch Outemu Blue, Abnt2 - K568
-. | ![Mouse Ergonômico](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://shop.ofertaco.top/vye8h) |
+  | **Mouse Gamer Redragon M811 Rgb Pro Aatrox Sem Fio 15 Botões
+. | ![Mouse Ergonômico](https://http2.mlstatic.com/D_NQ_NP_610412-MLB82236083415_022025-O-mouse-gamer-redragon-m811-rgb-pro-aatrox-sem-fio-15-botoes.webp) | [🔗 Conferir Oferta](https://shop.ofertaco.top/dofwr) |
 | **Teclado Mecanico Gamer Tgt Sherman Tlk Rainbow Abnt2 S/ Azul. | ![Hub USB-C](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://shop.ofertaco.top/5b47m) |
 
 ---
