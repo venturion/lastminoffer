@@ -7,6 +7,8 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 
 ---
 
+✅ 🚚 TODOS PRODUTOS COM FRETE GRÁTIS!!!
+
 ## ⚡ Destaques da Semana
 
 | Gadget | Imagem | Link para Oferta |
