@@ -11,15 +11,16 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 
 | Gadget | Imagem | Link para Oferta |
 |:-------|:------:|:----------------:|
-| **Teclado Mecânico RGB**<br>Switch Red, ideal para digitação fluída. | ![Teclado Mecânico](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://seulinkafiliado.com/teclado) |
-| **Mouse Ergonômico Vertical**<br>Reduza a fadiga no pulso durante longas sessões de código. | ![Mouse Ergonômico](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://seulinkafiliado.com/mouse) |
-| **Hub USB-C Multifuncional**<br>Expanda seu setup em segundos. | ![Hub USB-C](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://seulinkafiliado.com/hub) |
+| **Teclado Magnético Redragon Kumara Pro Rgb Switch Brown. | ![Teclado Mecânico](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://shop.ofertaco.top/nvu24) |
+| **Teclado Mecânico Gamer Redragon Dark Avenger, Rgb, Switch Outemu Blue, Abnt2 - K568
+. | ![Mouse Ergonômico](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://seulinkafiliado.com/mouse) |
+| **Teclado Mecanico Gamer Tgt Sherman Tlk Rainbow Abnt2 S/ Azul. | ![Hub USB-C](https://via.placeholder.com/150) | [🔗 Conferir Oferta](https://seulinkafiliado.com/hub) |
 
 ---
 
 ## 🛠️ Kits e Acessórios para o Seu Setup
 
-- [⌨️ **Teclados Mecânicos** - Ver todos](https://seulinkafiliado.com/teclados)
+- [⌨️ **Teclados Mecânicos** - Ver todos](https://shop.ofertaco.top/teclados-dev)
 - [🖱️ **Mouses Ergonômicos** - Ver todos](https://seulinkafiliado.com/mouses)
 - [🎧 **Headsets para Home Office** - Ver todos](https://seulinkafiliado.com/headsets)
 - [🖥️ **Monitores UltraWide** - Ver todos](https://seulinkafiliado.com/monitores)
@@ -40,6 +41,7 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 
 ✅ Inscreva-se em nosso grupo do whatsapp:
 
+👨‍👩‍👦 Quer adicionar um amigo no grupo envia esse link pra ele: 👇🏻
 ** [Grupo do Whatsapp](https://shop.ofertaco.top/grupo-whatsapp)
 
 ---
