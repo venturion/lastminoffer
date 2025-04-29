@@ -13,7 +13,7 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 
 | Gadget | Imagem | Link para Oferta |
 |:-------|:------:|:----------------:|
-| **Teclado Magnético Redragon Kumara Pro Rgb Switch Brown. | ![Teclado Mecânico](https://http2.mlstatic.com/D_NQ_NP_698070-MLB50036377075_052022-O-teclado-magnetico-redragon-kumara-pro-rgb-switch-brown.webp) | [🔗 Conferir Oferta](https://shop.ofertaco.top/nvu24) |
+| **Teclado Magnético Redragon Kumara Pro Rgb Switch Brown. | ![Teclado Mecânico](https://media.fripixel.com.br/img/ofertaco-dev/teclado01.jpg) | [🔗 Conferir Oferta](https://shop.ofertaco.top/nvu24) |
   | **Mouse Gamer Redragon M811 Rgb Pro Aatrox Sem Fio 15 Botões | ![Mouse Ergonômico](https://http2.mlstatic.com/D_NQ_NP_610412-MLB82236083415_022025-O-mouse-gamer-redragon-m811-rgb-pro-aatrox-sem-fio-15-botoes.webp) | [🔗 Conferir Oferta](https://shop.ofertaco.top/dofwr) |
 | **Cadeira Gamer RGB Ergonômica Maxracer | ![Hub USB-C](https://http2.mlstatic.com/D_NQ_NP_941549-MLA81577973935_122024-O.webp) | [🔗 Conferir Oferta](https://shop.ofertaco.top/lz9ng) |
 
