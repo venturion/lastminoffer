@@ -21,7 +21,7 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 ## 🛠️ Kits e Acessórios para o Seu Setup
 
 - [⌨️ **Teclados Mecânicos** - Ver todos](https://shop.ofertaco.top/teclados-dev)
-- [🖱️ **Mouses Ergonômicos** - Ver todos](https://seulinkafiliado.com/mouses)
+- [🖱️ **Mouses Ergonômicos** - Ver todos](https://shop.ofertaco.top/teclados-dev)
 - [🎧 **Headsets para Home Office** - Ver todos](https://seulinkafiliado.com/headsets)
 - [🖥️ **Monitores UltraWide** - Ver todos](https://seulinkafiliado.com/monitores)
 - [💺 **Cadeiras Ergonômicas** - Ver todos](https://seulinkafiliado.com/cadeiras)
