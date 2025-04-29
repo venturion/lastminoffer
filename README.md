@@ -21,9 +21,9 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 
 - [⌨️ **Teclados Mecânicos** - Ver todos](https://shop.ofertaco.top/teclados-dev)
 - [🖱️ **Mouses Ergonômicos** - Ver todos](https://shop.ofertaco.top/mouses-pra-devs)
-- [🎧 **Headsets para Home Office** - Ver todos](https://seulinkafiliado.com/headsets)
-- [🖥️ **Monitores UltraWide** - Ver todos](https://seulinkafiliado.com/monitores)
-- [💺 **Cadeiras Ergonômicas** - Ver todos](https://seulinkafiliado.com/cadeiras)
+- [🎧 **Headsets para Home Office** - Ver todos](https://shop.ofertaco.top/headsets-gamer)
+- [🖥️ **Monitores UltraWide** - Ver todos](https://shop.ofertaco.top/monitores-gamer)
+- [💺 **Cadeiras Ergonômicas** - Ver todos](https://shop.ofertaco.top/cadeiras-gamer)
 
 ---
 
