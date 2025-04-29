@@ -36,6 +36,14 @@ Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** 
 
 ---
 
+## 📲 Veja todas nossas promoções
+
+✅ Inscreva-se em nosso grupo do whatsapp:
+
+** [Grupo do Whatsapp](https://shop.ofertaco.top/grupo-whatsapp)
+
+---
+
 ## 📬 Fique Atualizado
 
 Quer receber novas ofertas direto no seu GitHub?  
