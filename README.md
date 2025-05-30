@@ -13,9 +13,9 @@ Here you'll find **carefully selected gadgets for developers** — technology, p
 
 | Gadget                                                        |                                         Image                                        |                     Deal Link                    |
 | :------------------------------------------------------------ | :----------------------------------------------------------------------------------: | :----------------------------------------------: |
-| **Redragon Kumara Pro RGB Mechanical Keyboard, Brown Switch** | ![Mechanical Keyboard](https://media.fripixel.com.br/img/ofertaco-dev/teclado01.jpg) | [🔗 Check Deal](https://shop.ofertaco.top/nvu24) |
-| **Redragon M602 Griffin RGB Gaming Mouse, RGB Spectrum Backlit wireless*   |    ![Ergonomic Mouse](https://m.media-amazon.com/images/I/61bl-TLDG1L._AC_SX679_.jpg)    | [🔗 Check Deal](https://amzn.to/3ZCrMHl) |
-| **Maxracer RGB Ergonomic Gaming Chair**                       |     ![Gaming Chair](https://media.fripixel.com.br/img/ofertaco-dev/cadeira01.jpg)    | [🔗 Check Deal](https://shop.ofertaco.top/lz9ng) |
+| **Sceptre 34-Inch Curved Ultrawide WQHD Monitor, 165Hz** | ![Ultra Wide Monitor](https://m.media-amazon.com/images/I/41332WBf4dL.jpg) | [🔗 Check Deal](https://amzn.to/4kgsylH) |
+| **Redragon M602 Griffin RGB Gaming Mouse, RGB Spectrum Backlit wireless**   |    ![Ergonomic Mouse](https://m.media-amazon.com/images/I/61bl-TLDG1L._AC_SX679_.jpg)    | [🔗 Check Deal](https://amzn.to/3ZCrMHl) |
+| **Redragon K552 Mechanical Gaming Keyboard, 87-Key**                       |     ![Gaming Chair](https://m.media-amazon.com/images/I/71FSIp+tDNL._AC_SX466_.jpg)    | [🔗 Check Deal](https://amzn.to/3FuZ7xm) |
 
 ---
 
