@@ -46,7 +46,7 @@ Here you'll find **carefully selected gadgets for developers** — technology, p
 ✅ Join our WhatsApp group:
 
 👨‍👩‍👦 Want to invite a friend? Share this link: 👇🏻
-**[WhatsApp Group](https://shop.ofertaco.top/grupo-whatsapp)**
+**[Telegram Group](https://tm.me/lastminoff)**
 
 ---
 
