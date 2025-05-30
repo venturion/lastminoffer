@@ -1,7 +1,3 @@
-Aqui está a versão em inglês do seu texto com todas as referências de **"Ofertaço"** trocadas para **"Last Minute Offer"**, mantendo a identidade e o apelo comercial:
-
----
-
 # 🚀 Last Minute Offer - Perfect Gadgets for Developers
 
 Welcome to **Last Minute Offer**!
