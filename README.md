@@ -13,7 +13,8 @@ Here you'll find **carefully selected gadgets for developers** — technology, p
 
 | Gadget                                                        |                                         Image                                        |                     Deal Link                    |
 | :------------------------------------------------------------ | :----------------------------------------------------------------------------------: | :----------------------------------------------: |
-| **Lenovo V-Series V15 Business Laptop 15.6" FHD 1920 ** | ![Laptop](https://m.media-amazon.com/images/I/71y3vCKctsL._AC_SX466_.jpg) | [🔗 Check Deal](https://amzn.to/4koq2Kk) |
+| **Lenovo V-Series V15 Business Laptop 15.6" FHD 1920** | ![Laptop](https://m.media-amazon.com/images/I/71y3vCKctsL._AC_SX466_.jpg) | [🔗 Check Deal](https://amzn.to/4koq2Kk) |
+| **MUSETEX ATX PC Case, 6 PWM ARGB Fans Pre-Installed, 360MM RAD Support, Type-C Gaming PC Case** | ![Computer case](https://m.media-amazon.com/images/I/81a6xDb+JVL._AC_SX466_.jpg) | [🔗 Check Deal](https://amzn.to/45FdGJ4) |
 | **Sceptre 34-Inch Curved Ultrawide WQHD Monitor, 165Hz** | ![Ultra Wide Monitor](https://m.media-amazon.com/images/I/41332WBf4dL.jpg) | [🔗 Check Deal](https://amzn.to/4kgsylH) |
 | **Redragon M602 Griffin RGB Gaming Mouse, RGB Spectrum Backlit wireless**   |    ![Ergonomic Mouse](https://m.media-amazon.com/images/I/61bl-TLDG1L._AC_SX679_.jpg)    | [🔗 Check Deal](https://amzn.to/3ZCrMHl) |
 | **Redragon K552 Mechanical Gaming Keyboard, 87-Key**                       |     ![Gaming Chair](https://m.media-amazon.com/images/I/71FSIp+tDNL._AC_SX466_.jpg)    | [🔗 Check Deal](https://amzn.to/3FuZ7xm) |
