@@ -1,62 +1,68 @@
-# 🚀 Ofertaço Dev - Gadgets Perfeitos para Desenvolvedores
-
-Seja bem-vindo ao **Ofertaço**!  
-Aqui você encontra **gadgets selecionados especialmente para desenvolvedores** — tecnologia, produtividade, conforto e performance para o seu setup.
-
-> 💡 Atualizamos esta lista regularmente. Favorite o repositório e fique por dentro das melhores ofertas!
+Aqui está a versão em inglês do seu texto com todas as referências de **"Ofertaço"** trocadas para **"Last Minute Offer"**, mantendo a identidade e o apelo comercial:
 
 ---
 
-✅ 🚚 TODOS PRODUTOS COM FRETE GRÁTIS!!!
+# 🚀 Last Minute Offer - Perfect Gadgets for Developers
 
-## ⚡ Destaques da Semana
+Welcome to **Last Minute Offer**!
+Here you'll find **carefully selected gadgets for developers** — technology, productivity, comfort, and performance for your setup.
 
-| Gadget | Imagem | Link para Oferta |
-|:-------|:------:|:----------------:|
-| **Teclado Magnético Redragon Kumara Pro Rgb Switch Brown. | ![Teclado Mecânico](https://media.fripixel.com.br/img/ofertaco-dev/teclado01.jpg) | [🔗 Conferir Oferta](https://shop.ofertaco.top/nvu24) |
-  | **Mouse Gamer Redragon M811 Rgb Pro Aatrox Sem Fio 15 Botões | ![Mouse Ergonômico](https://media.fripixel.com.br/img/ofertaco-dev/mouse01.jpg) | [🔗 Conferir Oferta](https://shop.ofertaco.top/dofwr) |
-| **Cadeira Gamer RGB Ergonômica Maxracer | ![Hub USB-C](https://media.fripixel.com.br/img/ofertaco-dev/cadeira01.jpg) | [🔗 Conferir Oferta](https://shop.ofertaco.top/lz9ng) |
+> 💡 This list is updated regularly. Bookmark the repository and stay on top of the best deals!
 
 ---
 
-## 🛠️ Kits e Acessórios para o Seu Setup
+✅ 🚚 **ALL PRODUCTS WITH FREE SHIPPING!**
 
-- [⌨️ **Teclados Mecânicos** - Ver todos](https://shop.ofertaco.top/teclados-dev)
-- [🖱️ **Mouses Ergonômicos** - Ver todos](https://shop.ofertaco.top/mouses-pra-devs)
-- [🎧 **Headsets para Home Office** - Ver todos](https://shop.ofertaco.top/headsets-gamer)
-- [🖥️ **Monitores UltraWide** - Ver todos](https://shop.ofertaco.top/monitores-gamer)
-- [💺 **Cadeiras Ergonômicas** - Ver todos](https://shop.ofertaco.top/cadeiras-gamer)
+## ⚡ Weekly Highlights
 
----
-
-## 🧰 Gadgets que todo Dev Deveria Ter
-
-- **Luzes RGB para Ambiente** — [Ver Oferta](https://shop.ofertaco.top/x589f)
-- **Suporte Articulado Duplo para Monitores** — [Ver Oferta](https://shop.ofertaco.top/nxiew)
-- **SSD Externo Ultra Rápido** — [Ver Oferta](https://shop.ofertaco.top/94xqg)
+| Gadget                                                        |                                         Image                                        |                     Deal Link                    |
+| :------------------------------------------------------------ | :----------------------------------------------------------------------------------: | :----------------------------------------------: |
+| **Redragon Kumara Pro RGB Mechanical Keyboard, Brown Switch** | ![Mechanical Keyboard](https://media.fripixel.com.br/img/ofertaco-dev/teclado01.jpg) | [🔗 Check Deal](https://shop.ofertaco.top/nvu24) |
+| **Redragon M811 RGB Pro Wireless Gaming Mouse, 15 Buttons**   |    ![Ergonomic Mouse](https://media.fripixel.com.br/img/ofertaco-dev/mouse01.jpg)    | [🔗 Check Deal](https://shop.ofertaco.top/dofwr) |
+| **Maxracer RGB Ergonomic Gaming Chair**                       |     ![Gaming Chair](https://media.fripixel.com.br/img/ofertaco-dev/cadeira01.jpg)    | [🔗 Check Deal](https://shop.ofertaco.top/lz9ng) |
 
 ---
 
-## 📲 Veja todas nossas promoções
+## 🛠️ Setup Kits & Accessories
 
-✅ Inscreva-se em nosso grupo do whatsapp:
-
-👨‍👩‍👦 Quer adicionar um amigo no grupo envia esse link pra ele: 👇🏻
-** [Grupo do Whatsapp](https://shop.ofertaco.top/grupo-whatsapp)
-
----
-
-## 📬 Fique Atualizado
-
-Quer receber novas ofertas direto no seu GitHub?  
-⭐ Dê um _Star_ neste repositório e acompanhe as atualizações semanais!
+* [⌨️ **Mechanical Keyboards** - View All](https://shop.ofertaco.top/teclados-dev)
+* [🖱️ **Ergonomic Mice** - View All](https://shop.ofertaco.top/mouses-pra-devs)
+* [🎧 **Headsets for Home Office** - View All](https://shop.ofertaco.top/headsets-gamer)
+* [🖥️ **UltraWide Monitors** - View All](https://shop.ofertaco.top/monitores-gamer)
+* [💺 **Ergonomic Chairs** - View All](https://shop.ofertaco.top/cadeiras-gamer)
 
 ---
 
-> 📢 **Divulgação Transparente:** Alguns links aqui são de afiliado — ao comprar através deles, você ajuda o Ofertaço sem pagar nada a mais por isso. Obrigado pelo apoio!
+## 🧰 Must-Have Gadgets for Devs
+
+* **RGB Ambient Lights** — [Check Deal](https://shop.ofertaco.top/x589f)
+* **Dual Articulated Monitor Arm** — [Check Deal](https://shop.ofertaco.top/nxiew)
+* **Ultra-Fast External SSD** — [Check Deal](https://shop.ofertaco.top/94xqg)
 
 ---
 
-#### Desenvolvido com ❤️ para devs, por devs.
+## 📲 See All Our Promotions
+
+✅ Join our WhatsApp group:
+
+👨‍👩‍👦 Want to invite a friend? Share this link: 👇🏻
+**[WhatsApp Group](https://shop.ofertaco.top/grupo-whatsapp)**
 
 ---
+
+## 📬 Stay Updated
+
+Want to get new deals straight on GitHub?
+⭐ Star this repository and follow our weekly updates!
+
+---
+
+> 📢 **Transparent Disclosure:** Some links are affiliate links — by purchasing through them, you support Last Minute Offer at no additional cost. Thanks for the support!
+
+---
+
+#### Built with ❤️ for devs, by devs.
+
+---
+
+Se quiser também adaptar isso para visual moderno com landing page internacional, posso criar um layout de uma página única com foco em UI/UX, conversão e SEO. Só avisar.
