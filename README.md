@@ -24,7 +24,7 @@ Here you'll find **carefully selected gadgets for developers** — technology, p
 ✅ Join our WhatsApp group:
 
 👨‍👩‍👦 Want to invite a friend? Share this link: 👇🏻
-**[Telegram Group](https://tm.me/lastminoff)**
+**[Telegram Group](https://t.me/lastminoff)**
 
 ---
 
