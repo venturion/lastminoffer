@@ -14,26 +14,8 @@ Here you'll find **carefully selected gadgets for developers** — technology, p
 | Gadget                                                        |                                         Image                                        |                     Deal Link                    |
 | :------------------------------------------------------------ | :----------------------------------------------------------------------------------: | :----------------------------------------------: |
 | **Redragon Kumara Pro RGB Mechanical Keyboard, Brown Switch** | ![Mechanical Keyboard](https://media.fripixel.com.br/img/ofertaco-dev/teclado01.jpg) | [🔗 Check Deal](https://shop.ofertaco.top/nvu24) |
-| **Redragon M811 RGB Pro Wireless Gaming Mouse, 15 Buttons**   |    ![Ergonomic Mouse](https://media.fripixel.com.br/img/ofertaco-dev/mouse01.jpg)    | [🔗 Check Deal](https://shop.ofertaco.top/dofwr) |
+| **Redragon M602 Griffin RGB Gaming Mouse, RGB Spectrum Backlit wireless*   |    ![Ergonomic Mouse](https://m.media-amazon.com/images/I/61bl-TLDG1L._AC_SX679_.jpg)    | [🔗 Check Deal](https://amzn.to/3ZCrMHl) |
 | **Maxracer RGB Ergonomic Gaming Chair**                       |     ![Gaming Chair](https://media.fripixel.com.br/img/ofertaco-dev/cadeira01.jpg)    | [🔗 Check Deal](https://shop.ofertaco.top/lz9ng) |
-
----
-
-## 🛠️ Setup Kits & Accessories
-
-* [⌨️ **Mechanical Keyboards** - View All](https://shop.ofertaco.top/teclados-dev)
-* [🖱️ **Ergonomic Mice** - View All](https://shop.ofertaco.top/mouses-pra-devs)
-* [🎧 **Headsets for Home Office** - View All](https://shop.ofertaco.top/headsets-gamer)
-* [🖥️ **UltraWide Monitors** - View All](https://shop.ofertaco.top/monitores-gamer)
-* [💺 **Ergonomic Chairs** - View All](https://shop.ofertaco.top/cadeiras-gamer)
-
----
-
-## 🧰 Must-Have Gadgets for Devs
-
-* **RGB Ambient Lights** — [Check Deal](https://shop.ofertaco.top/x589f)
-* **Dual Articulated Monitor Arm** — [Check Deal](https://shop.ofertaco.top/nxiew)
-* **Ultra-Fast External SSD** — [Check Deal](https://shop.ofertaco.top/94xqg)
 
 ---
 
