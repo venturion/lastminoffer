@@ -58,7 +58,3 @@ Want to get new deals straight on GitHub?
 ---
 
 #### Built with ❤️ for devs, by devs.
-
----
-
-Se quiser também adaptar isso para visual moderno com landing page internacional, posso criar um layout de uma página única com foco em UI/UX, conversão e SEO. Só avisar.
